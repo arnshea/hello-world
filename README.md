@@ -1,5 +1,5 @@
 # hello-world
-Hello World/Test/Sample/Sandbox/Sandpit repo
+Hello World Scratch/Sandbox/Sandpit repo
 
 Hello, World! A little about me:
 
